@@ -1,4 +1,4 @@
-# VITYARTHI-CSE-PROJECT-ANW
+# VITYARTHI-CSA-PROJECT-ANW
 STUDENT GRADE CALCULATOR - Project Documentation
 
 1. Real World Problem –Basic Student Grade Management :-

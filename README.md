@@ -1,8 +1,8 @@
-# VITYARTHI-CSA-PROJECT-ANW
+# VITYARTHI-CSE-PROJECT-ANW
 ## STUDENT GRADE CALCULATOR - Project Documentation
 
 ## Project Overview :-
-Mismanagement of student grades is a significant issue in educational settings. Many teachers, professors, and educational institutions need a simple way to organize and calculate student grades efficiently. Without adequate grade management tools, it is difficult to track student performance, calculate overall scores, and determine final grades accurately. This can lead to calculation errors, inefficiencies in grading, and potential unfairness in student assessment. Addressing this problem is crucial, practical, and relevant in education. Finding a solution will enhance grading accuracy, improve educational operations, and reduce mistakes. There is a need for an easy-to-use tool that helps educators manage student grades effectively.
+Many teachers, professors, and educational institutions need a simple way to organize and calculate student grades efficiently. Without adequate grade management tools, it is difficult to track student performance, calculate overall scores, and determine final grades accurately. This can lead to calculation errors, inefficiencies in grading, and potential unfairness in student assessment. Addressing this problem is crucial, practical, and relevant in education. Finding a solution will enhance grading accuracy, improve educational operations, and reduce mistakes. There is a need for an easy-to-use tool that helps educators manage student grades effectively.
 
 ### Problem definition:
 In many educational institutions, especially smaller schools or those with limited resources, student grades, including names, subjects, and scores, are often recorded manually or in unstructured formats. This makes it difficult to calculate accurate averages, increases the likelihood of calculation errors, and leads to inefficient grade management and delays in reporting. This system aims to solve this issue by providing a basic yet effective digital solution for grade calculation and management.

@@ -29,12 +29,12 @@ Step 1: Install Python
 Download and install Python from: https://www.python.org/downloads/
 
 Step 2: Download the Project
-Clone the repository from GitHub: https://github.com/sartha-cmyk/Spam-Mail-Protection.git
+Clone the repository from GitHub:(https://github.com/anwita25boe10036-sudo/VITYARTHI-CSA-PROJECT-ANW)
 
-Go to project folder:cd spam-mail-protection
+Go to project folder:cd ANWITA DWIVEDI
 
 Step 3: Run the Program
-python spam_mail_protection.py The program will start and show the menu
+python ANWITA DWIVEDI.py The program will start and show the menu
    
 
 ## How to use :-
